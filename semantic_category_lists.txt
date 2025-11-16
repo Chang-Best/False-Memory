@@ -1,0 +1,36 @@
+*ANGER: mad, fear, hate, rage, temper, fury, ire, wrath, happy, fight, hatred, mean, calm, emotion, enrage
+*ARMY: Navy, soldier, United States, rifle, Air Force, draft, military, Marines, march, infantry, captain, war, uniform, pilot, combat
+*BLACK: white, dark, cat, charred, night, funeral, color, grief, blue, death, ink, Bottom, coal, brown, gray
+*BREAD: butter, food, eat, sandwich, rye, jam, milk, flour, jelly, dough, crust, slice, wine, loaf, toast
+*CAR: truck, bus, train, automobile, vehicle, drive, jeep, Ford, race, keys, garage, highway, sedan, van, taxi
+*CHAIR: table, sit, legs, seat, couch, desk, recliner, sofa, wood, cushion, swivel, stool, sitting, rocking, bench
+*CITY: town, crowded, state, capital, streets, subway, country, New York, village, metropolis, big, Chicago, suburb, county, urban
+*COLD: hot, snow, warm, winter, ice, wet, frigid, chilly, heat, weather, freeze, air, shiver, Arctic, frost
+*CUP: mug, saucer, tea, measuring, coaster, lid, handle, coffee, straw, goblet, soup, stein, drink, plastic, sip
+*DOCTOR: nurse, sick, lawyer, medicine, health, hospital, dentist, physician, ill, patient, office, stethoscope, surgeon, clinic, cure
+*FLAG: banner, American, symbol, stars, anthem, stripes, pole, wave, raised, national, checkered, emblem, sign, freedom, pendant
+*FOOT: shoe, hand, toe, kick, sandals, soccer, yard, walk, ankle, arm, boot, inch, sock, knee, mouth
+*FRUIT: apple, vegetable, orange, kiwi, citrus, ripe, pear, banana, berry, cherry, basket, juice, salad, bowl, cocktail
+*GIRL: boy, dolls, female, young, dress, pretty, hair, niece, dance, beautiful, cute, date, aunt, daughter, sister
+*HIGH: low, clouds, up, tall, tower, jump, above, building, noon, cliff, sky, over, airplane, dive, elevate
+*KING: queen, England, crown, prince, George, dictator, palace, throne, chess, rule, subjects, monarch, royal, leader, reign
+*LION: tiger, circus, jungle, tamer, den, cub, Africa, mane, cage, feline, roar, fierce, bears, hunt, pride
+*MAN: woman, husband, uncle, lady, mouse, male, father, strong, friend, beard, person, handsome, muscle, suit, old
+*MOUNTAIN: hill, valley, climb, summit, top, molehill, peak, plain, glacier, goat, bike, climber, range, steep, ski
+*MUSIC: note, sound, piano, sing, radio, band, melody, horn, concert, instrument, symphony, jazz, orchestra, art, rhythm
+*NEEDLE: thread, pin, eye, sewing, sharp, point, prick, thimble, haystack, thorn, hurt, injection, syringe, cloth, knitting
+*PEN: pencil, write, fountain, leak, quill, felt, Bic, scribble, crayon, Cross, tip, marker, red, cap, letter
+*RIVER: water, stream, lake, Mississippi, boat, tide, swim, flow, run, barge, creek, brook, fish, bridge, winding
+*ROUGH: smooth, bumpy, road, tough, sandpaper, jagged, ready, coarse, uneven, riders, rugged, sand, boards, ground, gravel
+*RUBBER: elastic, bounce, gloves, tire, ball, eraser, springy, foam, galoshes, soles, latex, glue, flexible, resilient, stretch
+*SHIRT: blouse, sleeves, pants, tie, button, shorts, iron, polo, collar, vest, pocket, jersey, belt, linen, cuffs
+*SLEEP: bed, rest, awake, tired, dream, wake, snooze, blanket, doze, slumber, snore, nap, peace, yawn, drowsy
+*SLOW: fast, lethargic, stop, listless, snail, cautious, delay, traffic, turtle, hesitant, speed, quick, sluggish, wait, molasses
+*SMELL: nose, breathe, sniff, aroma, hear, see, nostril, whiff, scent, reek, stench, fragrance, perfume, salts, rose
+*SMOKE: cigarette, puff, blaze, billows, pollution, ashes, cigar, chimney, fire, tobacco, stink, pipe, lungs, flames, stain
+*SOFT: hard, light, pillow, plush, loud, cotton, fur, touch, fluffy, feather, furry, downy, kitten, skin, tender
+*SPIDER: web, insect, bug, fright, fly, arachnid, crawl, tarantula, poison, bite, creepy, animal, ugly, feelers, small
+*SWEET: sour, candy, sugar, bitter, good, taste, tooth, nice, honey, soda, chocolate, heart, cake, tart, pie
+*THIEF: steal, robber, crook, burglar, money, cop, bad, rob, jail, gun, villain, crime, bank, bandit, criminal
+*TRASH: garbage, waste, can, refuse, sexage, bag, junk, rubbish, sweep, scraps, pile, dump, landfill, debris, litter
+*WINDOW: door, glass, pane, shade, ledge, sill, house, open, curtain, frame, view, breeze, sash, screen, shutter
